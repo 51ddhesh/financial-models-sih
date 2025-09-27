@@ -110,5 +110,3 @@ This document provides the sources and justification for the key assumptions use
     *   *Link/Reference:* [Official AWS Pricing Calculator](https://calculator.aws/) and [Official Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator/).
     *   *Our Model's Justification:* The estimate covers necessary services like compute instances (EC2/VMs), storage (S3), and CI/CD pipeline tools (e.g., Azure DevOps).
 
----
-### **END OF FILE `Chakravyuha-sources-of-assumptions.md`**
